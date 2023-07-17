@@ -1,6 +1,6 @@
 package pattern;
 
-public class FirstMax //edited in github
+public class FirstMax //edited in github by madhu
 {
 	public static void main(String[] args) {
 		int[] arr= {7,-3,0,1,2,-9};
